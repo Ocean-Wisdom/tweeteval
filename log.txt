@@ -1,0 +1,501 @@
+commit 80ff044b7898b7cf42e859702724e10211e0257e
+Merge: 3853d2a 6348a09
+Author: Bogdan <bbogdan.craciun@gmail.com>
+Date:   Thu Jun 3 12:13:48 2021 +0200
+
+    Merge branch 'main' of https://github.com/Ocean-Wisdom/tweeteval into main
+
+commit 3853d2a32cb3236795ed654a64a801691e96c08d
+Author: Bogdan <bbogdan.craciun@gmail.com>
+Date:   Thu Jun 3 12:13:25 2021 +0200
+
+     log_txt
+
+commit 6348a09fc3958ecccca2f4cb8f3e79ba7e832eda
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Wed Jun 2 20:21:09 2021 +0000
+
+    changes to notebook
+
+commit 000f7ac6fa83aba91aa371e82a04cd4d45c0b205
+Author: SeverinSchmidt <jon.schmidt99@gmail.com>
+Date:   Wed Jun 2 19:14:43 2021 +0000
+
+    Many changes
+
+commit 3f3bcd3ae631851582fa0e63ef6fedae91b4939f
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Tue Jan 12 21:35:37 2021 +0000
+
+    Add BERTweet
+
+commit 4932ed43836d2aaaf3d09740011ccc7535d905de
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Dec 17 10:25:36 2020 +0000
+
+    Update README.md
+
+commit dc32df5ecdc84128f728c5a370574d61dd867b30
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Dec 17 10:07:45 2020 +0000
+
+    Update README.md
+
+commit 3eb5e91dd5070b5a5931df4e70cbab5978e3c50c
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Dec 17 10:05:54 2020 +0000
+
+    fix sentiment dataset
+
+commit 7c6acdaf2ee596eeb00e0ddf207e35bf860cac47
+Author: luisespinosa <luis.espinosa@upf.edu>
+Date:   Mon Dec 7 10:55:15 2020 +0000
+
+    fix notebook
+
+commit fab9163e2f1d665286f6334b28a939b57705cae3
+Merge: 326c4e5 b05b689
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Sat Dec 5 18:00:26 2020 +0000
+
+    Merge pull request #3 from chrisfalter/main
+    
+    Fix link to Google Colab notebook
+
+commit b05b68933a9134ab5f80aceb52bfb4e8381e37af
+Merge: 326c4e5 88376b2
+Author: Christopher Falter <chrisfalter@gmail.com>
+Date:   Fri Nov 27 19:30:37 2020 -0500
+
+    Merge pull request #1 from chrisfalter/chrisfalter-issue-1
+    
+    Fix Google Colab notebook link
+
+commit 88376b272fc8e0d4f642d56f73e0438fb988478b
+Author: Christopher Falter <chrisfalter@gmail.com>
+Date:   Fri Nov 27 19:29:42 2020 -0500
+
+    Fix Google Colab notebook link
+    
+    Removed the unnecessary URL parameter that prevented the loading of the notebook.
+
+commit 326c4e53b561e728966b07520e9d79d430202543
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Tue Nov 24 22:14:12 2020 +0000
+
+    Update README typo
+
+commit 596ef9931cc713b980f4a3ec069631d37f90c1bc
+Author: luisespinosa <luis.espinosa@upf.edu>
+Date:   Fri Nov 13 12:37:00 2020 +0000
+
+    add notebook
+
+commit 0733c9e3e711c207a6e779bf23c340a6a77df7dd
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Fri Nov 13 12:35:52 2020 +0000
+
+    Update README.md
+
+commit 89924742f762c21481f31c28803d9db75080a1db
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Fri Nov 13 12:18:37 2020 +0000
+
+    Update README.md
+
+commit a96c96f5066a47be6e7a26c76d4a515678f4a66d
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Nov 13 12:04:39 2020 +0000
+
+    Update README.md
+
+commit 101b63da4cfc88c847fcf1ab297464d2ce294ff8
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Nov 13 12:04:06 2020 +0000
+
+    Update README.md
+
+commit d7ee21bbc4712388880fe8c0b92c44c443a5a3d2
+Author: Jose Camacho-Collados <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Nov 13 08:05:12 2020 +0000
+
+    Update mapping.txt
+
+commit c4df4468145cfd2459b4cd41e93a7900a12c1262
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Mon Oct 26 15:58:02 2020 +0000
+
+    Update README.md
+
+commit 1835f84e8f1c60bc88961469e823f289281de3a9
+Author: Cardiff NLP <72383243+cardiffnlp@users.noreply.github.com>
+Date:   Mon Oct 26 09:05:36 2020 +0000
+
+    Update README.md
+
+commit d705d775de7fcf356654dfcb9cd13339b52180d4
+Author: Cardiff NLP <72383243+cardiffnlp@users.noreply.github.com>
+Date:   Mon Oct 26 09:05:05 2020 +0000
+
+    Update README.md
+
+commit a1e2bf284b6b52d679ad58daddbae36c4e4e51b4
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Mon Oct 26 06:49:13 2020 +0000
+
+    Update README.md
+
+commit 28ee76fa5dc2285216bd8bc8bdafc2864defd19d
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Mon Oct 26 06:43:44 2020 +0000
+
+    Update README.md
+
+commit 3d8222a9780527f1325523c848085ff3e38ed740
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Mon Oct 26 06:13:48 2020 +0000
+
+    Update README.md
+
+commit 67c6a35dddecd159cd88d88283f352f882f42350
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Mon Oct 26 06:13:28 2020 +0000
+
+    Update README.md
+
+commit a5fb0237e1e7bcc411365ad267ea509ff4d68c71
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Sat Oct 24 10:29:42 2020 +0100
+
+    Update README.md
+
+commit 2409a71ab3402981419e1aeadd994aed64deeffd
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Sat Oct 24 10:28:25 2020 +0100
+
+    Update README.md
+
+commit 675498664842382012cf4dac9128f463da1b14b9
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Sat Oct 24 04:37:38 2020 +0100
+
+    Update README.md
+
+commit 6a5a37f274fd859d0f846f74887859adb3dd4ec3
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Sat Oct 24 04:34:08 2020 +0100
+
+    Update README.txt
+
+commit f099b8507947762c766dbbc4a95ad55060e37956
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 19:31:19 2020 +0100
+
+    Update README.md
+
+commit a0dde83a29b73776c9f1a063c92875ff39ab1190
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:58:05 2020 +0100
+
+    Update README.md
+
+commit 1d3f9831c6b015bb1775768f6a4037f1a96a60e1
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:55:33 2020 +0100
+
+    remove dataset
+
+commit fcf68404453b768f8aace60e361b15d90c5d7e90
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:52:41 2020 +0100
+
+    Update README.md
+
+commit b02617afa8436ddd617b3802f72506656376b608
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:48:24 2020 +0100
+
+    Update README.md
+
+commit 8dae0766ef4e7c2a2f73eb81c62ea30ac2c16004
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:38:27 2020 +0100
+
+    fix typo
+
+commit 8c9564f9db37fe2e6e3c27b987f082a35dc41289
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:35:25 2020 +0100
+
+    fix dataset
+
+commit de2885af6851aa25030d3e75f4b27aeff6d58297
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 15:34:10 2020 +0100
+
+    fix dataset
+
+commit 3afd883eafbba5fd91fdd1f5182eda71b3f33028
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:40:44 2020 +0100
+
+    Update README.md
+
+commit 01270bd1f592602ae1fdf61520da127a8f370922
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:29:15 2020 +0100
+
+    Update README.md
+
+commit df2f0059093305203fc5a63cf6084be6fdaec9f0
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:27:53 2020 +0100
+
+    Update README.md
+
+commit bc75c77ab413fe6f9383f9f7d4bda69485ffee4a
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:27:17 2020 +0100
+
+    Update README.md
+
+commit 5e47d11a4135c80eaf794dd3094954c59d325f47
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:26:19 2020 +0100
+
+    Update README.md
+
+commit 7d2a99ea94439c1040b9e6fe4591494b2b3743be
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:24:12 2020 +0100
+
+    Update README.md
+
+commit 785eb40cea3659fab0e8605b4299584e4e351068
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:23:28 2020 +0100
+
+    Update README.md
+
+commit 9f092b45b51e14298aceed1a0ded5a7aebea1fc9
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:22:32 2020 +0100
+
+    Update README.md
+
+commit e5e412a49b15c14ffec6a6da6bf3be8dea60c848
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:21:33 2020 +0100
+
+    Update README.md
+
+commit 49d4678bd96bdef9633167ede402fdc49288c37c
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Fri Oct 23 05:20:34 2020 +0100
+
+    Update README.md
+
+commit 24e035ae85119093584ccbe10e1a462b06a6ac27
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 17:25:45 2020 +0100
+
+    Update README.md
+
+commit a1d5ba955c2120bc835818620ab412bcd22513ba
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 17:03:19 2020 +0100
+
+    Update README.md
+
+commit 0c2fb443d4e072185b9ea0987346402f36fa990a
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 16:58:07 2020 +0100
+
+    Update README.md
+
+commit 2d574ec7d5ec1ad25f645d67e2fd95f71b798501
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 16:54:22 2020 +0100
+
+    Update README.md
+
+commit e991a376c4af241e25d5fbb12c371586d9058c9d
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 16:50:43 2020 +0100
+
+    Update README.md
+
+commit 2de1a84aeb481b84f97c26cfd3d582567d3fb457
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 16:49:00 2020 +0100
+
+    Update README.md
+
+commit b346603bb711233ea8c778167f43dc7bd22f7342
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 16:48:25 2020 +0100
+
+    Update README.md
+
+commit e1e0e84ba6d84f31bb979affe881d659488426ad
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 16:46:00 2020 +0100
+
+    Update README.md
+
+commit 54e666e67cf4b697b111791f03c8a37597132dfb
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 16:42:01 2020 +0100
+
+    Update README.md
+
+commit 091d2fc9ecbcf1b4c66068861b708b3b3dd46759
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 16:32:47 2020 +0100
+
+    Update README.md
+
+commit b7c0c3bb1a5ad1aa6409deaf7ab6eca22802c532
+Merge: 084550e 29e92a2
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 11:32:59 2020 +0100
+
+    add fix typo hillary
+
+commit 084550ebed2f2a91553b1ae710bb2be90eb430d8
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 11:30:16 2020 +0100
+
+    add fix typo hillary
+
+commit 29e92a2520acdb3bcb60caba732fa19708685bcc
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 11:29:00 2020 +0100
+
+    Update README.md
+
+commit 8df207ad6fcdab017000ad5196f797cd21f9a30f
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 11:26:15 2020 +0100
+
+    add datasets
+
+commit efeda9474384eabb427c1d4148a6fa58bd8e317a
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Thu Oct 22 06:57:43 2020 +0100
+
+    Update README.md
+
+commit d8772b56b641ff79fc6b096c22e576d2641bcbf1
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:51:01 2020 +0100
+
+    Update README.md
+
+commit 7057fb22d4ea8d851d2bd1bac725975a0da29ef8
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:50:41 2020 +0100
+
+    Update README.md
+
+commit a4c5b75974e358d87be2a3247bc9127fc6c08890
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:49:42 2020 +0100
+
+    Update README.md
+
+commit 63f88298f52121493837f17860c5d6783cdb33d5
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:49:19 2020 +0100
+
+    Update README.md
+
+commit 04c305d2c087192eacec604483354b64806f28c8
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:44:59 2020 +0100
+
+    Update README.md
+
+commit f0545d4bbd5058f7320f61fe9434945a7c8ec02e
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:44:25 2020 +0100
+
+    Update README.md
+
+commit b49ba11e6b95cb601ac1cae5d95403410304342e
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:43:38 2020 +0100
+
+    Update README.md
+
+commit aeb93a9b35e20660934b20c7229675971448c12c
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Thu Oct 22 05:42:48 2020 +0100
+
+    Update README.md
+
+commit bd3e72c3288b115a3cdb4be540408103deb6da0b
+Author: luisespinosaanke <luis.espinosa83@gmail.com>
+Date:   Wed Oct 21 20:46:03 2020 +0100
+
+    Update README.md
+
+commit e92c5a2218e594c861f4e9ae2eb94760ea38f3f6
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Wed Oct 21 10:21:24 2020 +0100
+
+    Update README.md
+
+commit b580630086cbbe204923a0903a358128859da0cf
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Wed Oct 21 10:10:25 2020 +0100
+
+    Update README.md
+
+commit a6ba8fe237550627ce0ef9ff2ce8dae543c28231
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Tue Oct 20 15:00:08 2020 +0100
+
+    Update README.md
+
+commit 570c539a6d35c62e51f64731ead06bc6702171ae
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Tue Oct 20 13:09:52 2020 +0100
+
+    Update README.md
+
+commit 839ccba2b13ab05e462a411f3160cabf681684e9
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Tue Oct 20 08:06:28 2020 +0100
+
+    Update README
+
+commit 2a8619915be7c2b864031cacc8acf2e9f1c2497d
+Author: pedrada88 <camachocolladosj@cardiff.ac.uk>
+Date:   Wed Oct 14 18:56:19 2020 +0100
+
+    Update README.md
+
+commit ab94b1b7d332a530a6a980810afcdaf2fdb44e5a
+Author: cardiffnlp <72383243+cardiffnlp@users.noreply.github.com>
+Date:   Mon Oct 5 11:49:13 2020 +0100
+
+    Update README.md
+
+commit d11351c4bfbf4ef5ce7b48b0261499d5480e49fe
+Author: cardiffnlp <72383243+cardiffnlp@users.noreply.github.com>
+Date:   Mon Oct 5 11:48:58 2020 +0100
+
+    Update README.md
+
+commit ab717963b5ebd07056a84a4e8e5bb6b7c36d07a6
+Author: cardiffnlp <72383243+cardiffnlp@users.noreply.github.com>
+Date:   Mon Oct 5 11:48:48 2020 +0100
+
+    Update README.md
+
+commit 5d3d65243b5d717379ad3f3e0569ef05a46e3ec8
+Author: cardiffnlp <72383243+cardiffnlp@users.noreply.github.com>
+Date:   Mon Oct 5 11:46:26 2020 +0100
+
+    Initial commit
