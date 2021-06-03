@@ -1,3 +1,22 @@
+commit c15fa505d8a19a86f24c85baa2354c07342bf62a
+Merge: 47bc3db a9f4d1c
+Author: Jacob Rohde <jas.rohde@gmail.com>
+Date:   Thu Jun 3 12:25:10 2021 +0200
+
+    Merge branch 'main' of https://github.com/Ocean-Wisdom/tweeteval into main
+
+commit 47bc3db3b52f44135dd92d90b9922c20e5d7a4da
+Author: Jacob Rohde <jas.rohde@gmail.com>
+Date:   Thu Jun 3 12:24:52 2021 +0200
+
+    Final version
+
+commit a9f4d1cc88beb3c35d9656e28b34156129c73b2f
+Author: Bogdan <bbogdan.craciun@gmail.com>
+Date:   Thu Jun 3 12:15:48 2021 +0200
+
+    log_Txt
+
 commit 80ff044b7898b7cf42e859702724e10211e0257e
 Merge: 3853d2a 6348a09
 Author: Bogdan <bbogdan.craciun@gmail.com>
